@@ -8,7 +8,7 @@ const projects = [
         description: "Interactive Power BI dashboard for fleet management operations. Tracks key performance indicators including vehicle utilization, maintenance schedules, fuel consumption, driver performance, and operational costs with real-time monitoring.",
         tech: ["Power BI", "DAX", "KPI Tracking", "Dashboard Design"],
         image: "./imgs/fleet-pbi.png",
-        link: "https://github.com/Eslam-Shaban-17/Data-Science-and-Analysis-Projects/tree/main/Data%20Visualization%20Projects/02%20-%20Power%20BI%20Projects/03%20-%20Fleet%20Management%20kPI%20Analytics"
+        link: "https://github.com/Eslam-Shaban-17/Fleet-Management-Dashboard-KPI-Analytics"
     },
     {
         title: "Customer Churn Prediction",
@@ -426,7 +426,7 @@ const projects = [
         description: "End-to-end COVID-19 analysis project. Explored deaths and vaccinations datasets using SQL Server with advanced techniques (Joins, CTEs, Temp Tables, Window Functions). Calculated key metrics including death rate, infection percentage, and vaccination progress. Created reusable views and aggregate queries, then built comprehensive Tableau dashboard with interactive filters for visualization.",
         tech: ["Tableau", "SQL Server", "CTEs", "Window Functions", "Temp Tables", "Data Visualization"],
         image: "./imgs/covid_visualize.jpg",
-        link: "https://public.tableau.com/app/profile/eslam170/viz/CovidDeathsDashboard_16567910075040/CovidDeathsDashboard"
+        link: "https://github.com/Eslam-Shaban-17/covid-sql-exploration-tableau"
     },
     {
         title: "Startup Expansion Dashboard (Power BI)",
